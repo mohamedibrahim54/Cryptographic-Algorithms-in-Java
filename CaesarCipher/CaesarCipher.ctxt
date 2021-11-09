@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CaesarCipher
+comment1.params=input\ key
+comment1.target=java.lang.String\ encrypt(java.lang.String,\ int)
+comment10.params=message\ counts
+comment10.target=void\ getCharOccurrence(java.lang.String,\ int[])
+comment11.params=input
+comment11.target=java.lang.String\ decrypt(java.lang.String)
+comment12.params=input
+comment12.target=java.lang.String\ twoKeysDecrypt(java.lang.String)
+comment2.params=
+comment2.target=void\ testCaesar()
+comment3.params=ch
+comment3.target=boolean\ isVowel(char)
+comment4.params=phrase\ ch
+comment4.target=java.lang.String\ replaceVowels(java.lang.String,\ char)
+comment5.params=input\ key1\ key2
+comment5.target=java.lang.String\ twoKeysEncrypt(java.lang.String,\ int,\ int)
+comment6.params=
+comment6.target=void\ testTwoKeysEncrypt()
+comment7.params=resource\ counts
+comment7.target=void\ countWordLengths(edu.duke.FileResource,\ int[])
+comment8.params=
+comment8.target=void\ testCountWordLengths()
+comment9.params=counts
+comment9.target=int\ indexOfMax(int[])
+numComments=13
